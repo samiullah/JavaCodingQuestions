@@ -19,7 +19,6 @@ public class Ask_user_to_enter_a_number_and_then_print_the_multiplication_table_
 		}
 		
 		
-		
 	}
 
 }
